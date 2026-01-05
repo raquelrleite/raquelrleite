@@ -29,7 +29,11 @@
   
   <br/> <br/>
 
-  <img src="https://github.com/raquelrleite/raquelrleite/raw/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+  <br clear="both">
+
+ <img src="https://raw.githubusercontent.com/raquelrleite/raquelrleite/output/snake.svg" alt="Snake animation" />
+
+ ###
 
   ---
 
